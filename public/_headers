@@ -1,0 +1,3 @@
+  Access-Control-Allow-Origin: https://dvantrix.wixstudio.io
+  Access-Control-Allow-Methods: GET, POST, OPTIONS, DELETE, PUT
+  Access-Control-Allow-Headers: Content-Type
